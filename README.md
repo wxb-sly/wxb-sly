@@ -23,8 +23,7 @@ I build probabilistic models that prevent infrastructure failure. My work bridge
 
 ### 📊 TELEMETRY
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wxb-sly&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&count_private=true" height="150" alt="Stats"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wxb-sly&theme=radical&hide_border=true&bg_color=0a0a0a" height="150" alt="Streak" />
+  <img src="https://github.com/wxb-sly/wxb-sly/raw/main/github-metrics.svg" alt="Terminal Metrics" width="100%" />
 </div>
 
 ---
