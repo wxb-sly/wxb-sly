@@ -1,0 +1,33 @@
+name: Metrics
+on:
+  # Schedule daily updates (every 24 hours)
+  schedule: [{cron: "0 0 * * *"}]
+  # Lines below let you run it manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN}}
+
+          # Options
+          user: wxb-sly
+          template: terminal
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kathmandu
+          
+          # Plugins
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_colors: "github"
+          plugin_languages_threshold: 0%
+          
+          # Aesthetics
+          color_mode: dark
