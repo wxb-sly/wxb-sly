@@ -17,9 +17,9 @@ I build probabilistic models that prevent infrastructure failure. My work bridge
 ---
 
 ### 📡 ACTIVE OPERATIONS
-*   **Time-Series Hydrology Risk:** Modeling autoregressive flood persistence (AR1/GRW) via Bayesian inference to map true hydrological flow probabilties.
-*   **Geotechnical Risk Analytics:** Transitioning from standard Monte Carlo scripts to PyMC-driven Bayesian rock-mass validation engines. 
-*   **Contractual Flow Translation:** Actively linking probabilistic failure models and statistical baseline uncertainty to FIDIC engineering liabilities. 
+*   **Geochemical Matrix Stabilization:** Decoupling mechanical strength limits from electrochemical colloidal failure under simulated field exposure.
+*   **Threshold-State Survival Analytics:** Deploying Bayesian event-history models to isolate true failure trajectories from matched near-miss cohorts. 
+*   **Discrete-Areal Risk Projections:** Constructing longitudinal panel models to map localized infrastructure hazards against forward climate scenarios. 
 
 
 ---
