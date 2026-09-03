@@ -1,25 +1,26 @@
 # SARTHAK KARKI
-**Computational Risk Quantifier | Hydro-Geotechnical Risk**
+**Computational Risk Quantifier | Himalayan Catastrophe Hazard**
 
-I build probabilistic models that prevent infrastructure failure. My work bridges the gap between **Civil Engineering Physics** (Atoms) and **Data Science** (Bits) to optimize the Himalayan Asset Class.
+I build probabilistic hazard models for Himalayan natcat risk. Satellite remote sensing, Bayesian inference, climate science — pricing multi-hazard uncertainty that institutional capital can't ignore.
 
 ---
 
-### 🛠️ THE ARSENAL
+### 🛠️ THE ARSENAL  
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SCIPY-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![PyMC](https://img.shields.io/badge/PYMC-272938?style=for-the-badge&logo=python&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![GEE](https://img.shields.io/badge/GOOGLE_EARTH_ENGINE-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GEOPANDAS-139C5A?style=for-the-badge&logo=pandas&logoColor=white)
+![Rasterio](https://img.shields.io/badge/RASTERIO-2D6B4F?style=for-the-badge)
+![SciPy](https://img.shields.io/badge/SCIPY-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![xarray](https://img.shields.io/badge/XARRAY-E8732A?style=for-the-badge)
 
 ---
 
 ### 📡 ACTIVE OPERATIONS
-*   **Geochemical Matrix Stabilization:** Decoupling mechanical strength limits from electrochemical colloidal failure under simulated field exposure.
-*   **Threshold-State Survival Analytics:** Deploying Bayesian event-history models to isolate true failure trajectories from matched near-miss cohorts. 
 *   **Discrete-Areal Risk Projections:** Constructing longitudinal panel models to map localized infrastructure hazards against forward climate scenarios. 
+*   **Threshold-State Survival Analytics:** Deploying Bayesian event-history models to isolate true failure trajectories from matched near-miss cohorts.
+*   **Geochemical Matrix Stabilization:** Decoupling mechanical strength limits from electrochemical colloidal failure under simulated field exposure.
+
 
 
 ---
